@@ -16,7 +16,7 @@ namespace WebApplication1
             CreateHostBuilder(args).Build().Run();
             Console.WriteLine("This is C# first trail - second time");
             Console.WriteLine("This is C# first trail - second timeeeeeeweryui");
-            
+            Console.WriteLine("This is C# 567890-trail - second timeeeeeeweryui");
             
         }
 
